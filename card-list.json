@@ -1,0 +1,249 @@
+  "type": "Column",
+  "children": [
+    {
+      "type": "SizedBox",
+      "height": 20.5
+    },
+    {
+      "type": "Text",
+      "data": "Json Spotlight",
+      "style": {
+        "color": "#434343",
+        "fontSize": 22,
+        "fontFamily": "Montserrat",
+        "fontWeight": "w700"
+      }
+    },
+    {
+      "type": "SizedBox",
+      "height": 20
+    },
+    {
+      "type": "Expanded",
+      "child": {
+        "type": "ListView",
+        "children": [
+          {
+            "type": "Container",
+            "height": 250,
+            "margin": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "padding": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "decoration": {
+              "color": "#ffffff",
+              "borderRadius": 10,
+              "image": {
+                "type": "DecorationImage",
+                "image": {
+                  "type": "NetworkImage",
+                  "url": "https://via.placeholder.com/374x191"
+                },
+                "fit": "fill"
+              },
+              "boxShadow": [
+                {
+                  "color": "#808080",
+                  "spreadRadius": 2,
+                  "blurRadius": 5,
+                  "offset": {
+                    "dx": 0,
+                    "dy": 3
+                  }
+                }
+              ]
+            },
+            "child": {
+              "type": "Column",
+              "mainAxisAlignment": "end",
+              "children": [
+                {
+                  "type": "Text",
+                  "data": "What are the features of the best app for tracking baby development?",
+                  "style": {
+                    "color": "#000000",
+                    "fontSize": 16,
+                    "fontFamily": "Montserrat",
+                    "fontWeight": "w500"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "Container",
+            "height": 250,
+            "margin": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "padding": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "decoration": {
+              "color": "#ffffff",
+              "borderRadius": 10,
+              "image": {
+                "type": "DecorationImage",
+                "image": {
+                  "type": "NetworkImage",
+                  "url": "https://via.placeholder.com/374x191"
+                },
+                "fit": "fill"
+              },
+              "boxShadow": [
+                {
+                  "color": "#808080",
+                  "spreadRadius": 2,
+                  "blurRadius": 5,
+                  "offset": {
+                    "dx": 0,
+                    "dy": 3
+                  }
+                }
+              ]
+            },
+            "child": {
+              "type": "Column",
+              "mainAxisAlignment": "end",
+              "children": [
+                {
+                  "type": "Text",
+                  "data": "What are the features of the best app for tracking baby development?",
+                  "style": {
+                    "color": "#000000",
+                    "fontSize": 16,
+                    "fontFamily": "Montserrat",
+                    "fontWeight": "w500"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "Container",
+            "height": 250,
+            "margin": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "padding": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "decoration": {
+              "color": "#ffffff",
+              "borderRadius": 10,
+              "image": {
+                "type": "DecorationImage",
+                "image": {
+                  "type": "NetworkImage",
+                  "url": "https://via.placeholder.com/374x191"
+                },
+                "fit": "fill"
+              },
+              "boxShadow": [
+                {
+                  "color": "#808080",
+                  "spreadRadius": 2,
+                  "blurRadius": 5,
+                  "offset": {
+                    "dx": 0,
+                    "dy": 3
+                  }
+                }
+              ]
+            },
+            "child": {
+              "type": "Column",
+              "mainAxisAlignment": "end",
+              "children": [
+                {
+                  "type": "Text",
+                  "data": "What are the features of the best app for tracking baby development?",
+                  "style": {
+                    "color": "#000000",
+                    "fontSize": 16,
+                    "fontFamily": "Montserrat",
+                    "fontWeight": "w500"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "type": "Container",
+            "height": 250,
+            "margin": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "padding": {
+              "left": 20,
+              "right": 20,
+              "top": 10,
+              "bottom": 10
+            },
+            "decoration": {
+              "color": "#ffffff",
+              "borderRadius": 10,
+              "image": {
+                "type": "DecorationImage",
+                "image": {
+                  "type": "NetworkImage",
+                  "url": "https://via.placeholder.com/374x191"
+                },
+                "fit": "fill"
+              },
+              "boxShadow": [
+                {
+                  "color": "#808080",
+                  "spreadRadius": 2,
+                  "blurRadius": 5,
+                  "offset": {
+                    "dx": 0,
+                    "dy": 3
+                  }
+                }
+              ]
+            },
+            "child": {
+              "type": "Column",
+              "mainAxisAlignment": "end",
+              "children": [
+                {
+                  "type": "Text",
+                  "data": "What are the features of the best app for tracking baby development?",
+                  "style": {
+                    "color": "#000000",
+                    "fontSize": 16,
+                    "fontFamily": "Montserrat",
+                    "fontWeight": "w500"
+                  }
+                }
+              ]
+            }
+          },
+        ]
+      }
+    }
+  ]
